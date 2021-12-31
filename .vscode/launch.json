@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app_igoal",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app_igoal (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+=======
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "app_igoal",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app_igoal (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+>>>>>>> 68416fc1c768153dc5a5adcf3b7b01f5952493ea
+}

@@ -1,0 +1,220 @@
+<<<<<<< HEAD
+'''<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" style="background-color: white;"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="3-4-3" width="100%" height="70%"
+   viewBox="0 0 500 500" sodipodi:docname="orginal-field.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+
+   <image sodipodi:absref="/assets/orginal-field.png" xlink:href="/assets/orginal-field.png" x="-0.38054442"
+      y="1.9554687" id="image11" preserveAspectRatio="none" width="503.39294" height="501.32114" />
+   <image y="64.314934" x="380.59195" id="image9player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="65.269112" x="88.052765" id="image11player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" inkscape:transform-center-y="17.10525" />
+   <image y="64.688438" x="233.17519" id="image10player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="170.38812" x="376.88705" id="image5player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="175.19897" x="260.86584" id="image6player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="174.38885" x="170.09601" id="image7player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="178.83734" x="68.476677" id="image8player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="305.66013" x="372.47754" id="image2player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="317.38522" x="225.50842" id="image3player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="308.72919" x="90.525963" id="image4player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="395.98984" x="226.81906" id="image1player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="394.66306" y="129.38312" id="text9player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="398.32419" y="129.38312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41">{{postions[8].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.54077148px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="104.74747" y="132.00455" id="text11player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="109.60894" y="132.00455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.78660297px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-0">{{postions[10].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="244.93369" y="116.43629" id="text10player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="248.59482" y="116.43629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-9">{{postions[9].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="389.78354" y="230.44702" id="text5player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="393.44467" y="230.44702"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-2">{{postions[4].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="275.30136" y="238.18933" id="text6player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="278.96249" y="238.18933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-8">{{postions[5].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="186.64977" y="248.91426" id="text7player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="190.3109" y="248.91426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-89">{{postions[6].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="86.881943" y="236.41762" id="text8player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="90.543076" y="236.41762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-28">{{postions[7].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="383.99869" y="369.08414" id="text2player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="387.65982" y="369.08414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-06">{{postions[1].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="240.32681" y="383.33929" id="text3player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="240.32681" y="383.33929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-88">{{postions[2].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="102.73614" y="372.34213" id="text4player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="106.39727" y="372.34213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-6">{{postions[3].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="242.18755" y="462.78497" id="text1player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="242.18755" y="462.78497"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-898">{{postions[0].player_name}}</tspan>
+   </text>
+=======
+'''<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" style="background-color: white;"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="3-4-3" width="100%" height="70%"
+   viewBox="0 0 500 500" sodipodi:docname="orginal-field.svg" inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+
+   <image sodipodi:absref="/assets/orginal-field.png" xlink:href="/assets/orginal-field.png" x="-0.38054442"
+      y="1.9554687" id="image11" preserveAspectRatio="none" width="503.39294" height="501.32114" />
+   <image y="64.314934" x="380.59195" id="image9player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="65.269112" x="88.052765" id="image11player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" inkscape:transform-center-y="17.10525" />
+   <image y="64.688438" x="233.17519" id="image10player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="170.38812" x="376.88705" id="image5player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="175.19897" x="260.86584" id="image6player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="174.38885" x="170.09601" id="image7player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="178.83734" x="68.476677" id="image8player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="305.66013" x="372.47754" id="image2player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="317.38522" x="225.50842" id="image3player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="308.72919" x="90.525963" id="image4player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <image y="395.98984" x="226.81906" id="image1player" xlink:href="/assets/noimagesPlayer.png"
+      preserveAspectRatio="none" height="40" width="43" />
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="394.66306" y="129.38312" id="text9player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="398.32419" y="129.38312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41">{{postions[8].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.54077148px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="104.74747" y="132.00455" id="text11player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="109.60894" y="132.00455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.78660297px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-0">{{postions[10].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="244.93369" y="116.43629" id="text10player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="248.59482" y="116.43629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-9">{{postions[9].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="389.78354" y="230.44702" id="text5player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="393.44467" y="230.44702"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-2">{{postions[4].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="275.30136" y="238.18933" id="text6player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="278.96249" y="238.18933"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-8">{{postions[5].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="186.64977" y="248.91426" id="text7player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="190.3109" y="248.91426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-89">{{postions[6].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="86.881943" y="236.41762" id="text8player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="90.543076" y="236.41762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-28">{{postions[7].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="383.99869" y="369.08414" id="text2player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="387.65982" y="369.08414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-06">{{postions[1].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="240.32681" y="383.33929" id="text3player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="240.32681" y="383.33929"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-88">{{postions[2].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="102.73614" y="372.34213" id="text4player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="106.39727" y="372.34213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-6">{{postions[3].player_name}}</tspan>
+   </text>
+   <text xml:space="preserve"
+      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76351976"
+      x="242.18755" y="462.78497" id="text1player" transform="scale(1.0269341,0.97377231)">
+      <tspan sodipodi:role="line" x="242.18755" y="462.78497"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.76351976"
+         id="tspan41-898">{{postions[0].player_name}}</tspan>
+   </text>
+>>>>>>> 68416fc1c768153dc5a5adcf3b7b01f5952493ea
+</svg>'''

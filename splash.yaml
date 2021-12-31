@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+flutter_native_splash:
+#  image: assets/splash_screen/splash.png
+  color: "#000000"
+  color_dark: "#ffffff"
+=======
+flutter_native_splash:
+#  image: assets/splash_screen/splash.png
+  color: "#000000"
+  color_dark: "#ffffff"
+>>>>>>> 68416fc1c768153dc5a5adcf3b7b01f5952493ea
+  fullscreen: true
